@@ -110,6 +110,11 @@ What are Executive White Papers?
 Executive papers are succinct work documents designed for communication and problem-solving by the executive team. They are not academic research or theory-based papers, they are experiential opinion articles based on real-world observations and analysis. The papers provide businesses and government leaders with a list of questions, terminologies, and discussion points that can be used to address management challenges and opportunities. The structure of the paper includes three main sections: 1). A statement of the problem or opportunity 2). Analysis of root causes and driving forces 3). Proposed solution and implementation best practices.
  
 Courses and References:
-Master Classes in USA, Canada and Europe in January, February, March, April, May, June, July, August, September, October, November, and December
+<a href="https://www.iim.education/master-classes/index.htm">Master Classes in USA, Canada and Europe in January, February, March, April, May, June, July, August, September, October, November, and December
+</a>
+
 
 Executive Action Learning White Paper
+<a href="https://www.iim.education/executive-journal/executive-action-learning.htm ">Executive Action Learning White Paper
+</a>
+
