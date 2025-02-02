@@ -49,43 +49,70 @@ The EAL model is the core organizational change, development, and alignment tool
 ·         From lecturing to coaching
 
 ·         From memorizing to brainstorming
+
 ·         From subjective thinking to critical thinking
+
 ·         From conventional thinking to creative thinking
+
 ·         From competitive learning to collaborative learning
+
 ·         From problem-focus to solution-focus
+
 ·         From exams to project-based assessments
+
 ·         From knowledge transfer to knowledge creation
+
 ·         From learn-and-forget to sustained performance development
+
 ·         From divisional training to organizational alignment initiative
+
 ·         From training cost to training investment
+
 ·         From human resources to human capital
+
 ·         From individual knowledge to collective intelligence
+
 ·         From intangible benefits to measurable results using key performance indicators (KPIs)
  
 Executive Action-Learning (EAL)
 
 There is a distinction between knowledge and wisdom. Knowledge comes from memorizing business principles and facts. Wisdom comes from experiential insights. In action learning, this can be achieved via skillful questioning and collaboration facilitation by talented consultants. Traditional academic and MBA education focuses on knowledge, while Executive Action-Learning focuses on experiential problem-solving (wisdom).
+
 How to Achieve the Desired Executive Performance
+
 To achieve better business results, Executive Action-Learning (EAL) is designed as a customized and experiential education and alignment process, whereby the management teams collaborate on situation analysis, problem-solving, action planning, and project assessment to improve business performance. This is done in small groups called action-learning teams (ALTs). In this new collaborative learning/working model, the original action-learning is transformed from merely an effective training method to an organizational change and alignment tool. The change program is implemented via a combination of expert education, advisory processes, and collaboration facilitation.
 The value of the new EAL is that it can save the corporation a significant cost of hiring an army of expensive consultants to solve organizational performance problems, especially when the information needed is present within the organization. In most cases what is required is simply a guided facilitation and internal collaboration to leverage the collective intelligence of the organization to solve business problems.
 Executive action-learning also helps in improving productivity, working relations, and morale. In addition to knowledge-sharing, it is proven that management teams tend to communicate, collaborate,e and work better together when they learn together.
+
 A New Model for Corporate Universities
+
 In addition to traditional off-the-shelf training courses for entry-level staff, the Institute recommends that all corporate management training programs be based on an integrated, customized, and experiential action-learning program that is approved and sponsored by the CEO. Through EAL the organization can achieve the highest return on investment in organizational development efforts in the shortest possible time.
  
  
  
 How Does the Executive Action-Learning Initiative Work?
+
 Under an Executive Action-Learning initiative, an integrated organizational development and alignment program is designed by an action-learning expert and sponsored by the CEO. The program consists of several focused action projects that have specific objectives and measurable results. The action-learning expert then facilitates action-learning sessions with the various organizational teams.
+
 The sessions take the form of mini-workshops, where the main focus is problem-solving, brainstorming, and action-planning sessions. Each session is customized to address specific organizational and team needs and must be aligned with the CEO's strategy and business objectives.
+
 Examples of Executive Action-Learning Projects
+
 ·         Executive Action-Learning can help CEOs and organization leaders address difficult business questions similar to the following:
 ·         I made a decision to create a new organizational direction/structure/culture. I need expert support to launch this new organization-wide initiative, help accelerate its development and overcome resistance to change
+
 ·         I came up with a new vision/strategy, but is it a practical fit for our organization/market? How do I implement it on the ground level?
+
 ·         I'm not happy with our growth rate. All I get is excuses. What can we do to make it happen?
+
 ·         We need to overcome communication and collaboration barriers and develop better alignment and cross-organizational teamwork.
+
 ·         Developing top talent is a strategic priority; I have these bright new managers that I want to develop to the next level. I need someone to coach them on executive and leadership skills.
+
 ·         I need an independent expert to support the development and execution of an effective transition of a merger or acquisition project
+
 ·         Everyone has his own interests, agenda, and version of what is right for this organization. I need an external and objective view.
+
 ·         The market, technology, and organizations are changing so quickly and we’re not keeping up. We are so busy fighting to keep our customers that we need a fresh perspective to contribute to or validate our new strategic plan.
 ·         We are about to make a major investment decision. We need to validate our assumptions and decision-making process
 ·         I want to achieve maximum ROI from our business units, through business model optimization, technology, and process innovations or reengineering, but I do not want to pay a lot of money for a team of external consultants. We know our organization well; what we need an expert facilitator to help guide our efforts
