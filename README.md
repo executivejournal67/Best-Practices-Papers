@@ -114,23 +114,38 @@ Examples of Executive Action-Learning Projects
 ·         Everyone has his own interests, agenda, and version of what is right for this organization. I need an external and objective view.
 
 ·         The market, technology, and organizations are changing so quickly and we’re not keeping up. We are so busy fighting to keep our customers that we need a fresh perspective to contribute to or validate our new strategic plan.
+
 ·         We are about to make a major investment decision. We need to validate our assumptions and decision-making process
+
 ·         I want to achieve maximum ROI from our business units, through business model optimization, technology, and process innovations or reengineering, but I do not want to pay a lot of money for a team of external consultants. We know our organization well; what we need an expert facilitator to help guide our efforts
+
 ·         There seems to be a gap between our continuously escalating technology budgets and our business returns. How can I align IT/Technology investment with business objectives?
+
 ·         We do not have enough time or resources to solve this problem. I need an expert to help us answer the critical questions of what, why, who, when, where and how
+
 ·         I need an expert to help my team establish a standard benchmark for executive performance and development measurements
  
  
 Executive Action Learning (EAL) Implementation Process:
+
 The action-learning program can be implemented in several steps:
+
 ·         The Action Learning Expert (ALE) works with the management team to determine key business drivers, desired goals, performance targets, and any constraints or potential bottlenecks. They then establish an integrated program to facilitate organizational (or departmental) development and alignment. The resultant program content, methods, and duration will be tailored to meet participants' needs and budgets.
+
 ·         Before each session the ALE conducts a private needs assessment of the individual team members. This can be done onsite, on the phone, or online
+
 ·         Executive teams attend short one-day problem-solving and brainstorming sessions. During the sessions, the ALE acts as an independent collaboration and communication facilitator. At the end of the session, the executive team members must deliver an action plan to leverage the new opportunities or overcome the challenges
+
 ·         After the session, the ALE supports the organization by working as an advisor, guide, and coach to reinforce the learning and accelerate the required change. The ALE can work physically onsite and/or on a virtual basis
+
 ·         After each session the ALE conducts private individual feedback and provides improvement feedback. This can be done onsite, on the phone, or online
+
 ·         Offsite Executive Action-Learning sessions can take the form of strategic retreats. Strategic management retreats provide effective off-site planning, business review, and problem-solving sessions away from daily work distractions. Retreats provide a more relaxed and creative thinking environment for better collaboration, brainstorming, and decision-making.
+
 Executive Action-Learning Best Practices
+
 What are the critical success factors (CSFs) of Executive Action-Learning?
+
 To succeed in implementing an action-learning initiative, the leadership team needs to ensure the following:
 ·         Commitment from top management and team members
 ·         No hidden agendas. The CEOs must provide air cover. Like any successful meeting, an atmosphere of openness and trust is critical to confronting sensitive internal issues
