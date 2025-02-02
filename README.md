@@ -33,13 +33,21 @@ The Institute Executive Action-Learning (EAL) model differs from the traditional
 The EAL model is the core organizational change, development, and alignment tool. EAL differs from traditional academic and training programs in focus, content, and delivery. To highlight the main differences, EAL makes the following paradigm shifts:
 
 ·         From academic-driven learning to business-driven learning
+
 ·         From ad hoc courses to integrated organization development
+
 ·         From theoretical education to experiential education
+
 ·         From generic training courses to customized training programs
+
 ·         From teacher-driven learning to student-driven learning
+
 ·         From passive (listening) to active (doing) learning
+
 ·         From a teaching process to an advisory process
+
 ·         From lecturing to coaching
+
 ·         From memorizing to brainstorming
 ·         From subjective thinking to critical thinking
 ·         From conventional thinking to creative thinking
