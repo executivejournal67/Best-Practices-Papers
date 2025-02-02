@@ -1,27 +1,37 @@
  
 
 A CEO's Tool for Organizational Development and Alignment
+
 Author: Med Jones
+
 January 4, 2005
+
 V1.1
+
 The CEO Challenge
+
 In a global CEO survey conducted by the Executive Education Institute, the number one cited CEO challenge is leading change. The scope, complexity, frequency, and speed of change create significant stress on the organization and its management teams.
 The change and rate of change of business regulations, economic conditions, markets, competition, technologies, and human resources pose a high risk to achieving business objectives. The CEO's mandate is to steer the organization in the right direction at the right speed in order to capture emerging opportunities and overcome challenges arising from those changes.
+
 Traditionally, CEOs use presentations, meetings, conferences, and memos to align organizational resources and to get their teams on board. Conventional communications and planning tools have proven less than effective in aligning the performance of the organization and often CEOs need more time and money than desired to achieve the required objectives. This is especially true in large companies with complex organizational structures, or strongly entrenched cultures.
 Successful CEOs search for best management practices and tools to help them implement the desired organizational change and develop their team's performance. One valuable and often overlooked tool is the Executive Action-Learning (EAL). If properly designed and implemented, it can lead to much higher return on investment
 What is Action Learning?
+
 In the 1940s, Professor Reginald Revans coined the term Action Learning to describe an educational method whereby the participants study their own actions and experiences in order to improve performance. According to Revans, the learning formula is: Learning (L) = P + Q.
 	where P is programmed (traditional) knowledge and Q is questioning to create insight.
 In addition to (P) traditional lecturing/training methods, (Q) questioning enables each person to reflect on and review the action they have taken and the learning points. This would then guide future actions and improve performance.
  
  
 The Action Learning Model (ALM)
+
 The contribution of Reginald Revans can be seen today in many leadership and organization development initiatives. Since the 1940s, several developments to his original training method have been created. Recently several leading universities and organizations have adopted action-learning methods in their executive training programs. Some are rebranding their executive education from the traditional case method to the action-learning method.
 The most advanced action-learning development comes from the Executive Education Institute.  Although Professor Revan's action-learning method is a valuable tool for improving training effectiveness, the Institute's research revealed that superior value can be gained from extending the scope of action-learning to create a new organizational development model (ODM). Rather than merely updating the training methods to include questioning, the Institute proposes the integration of several organization development, change management, and strategic alignment tools with action-learning programs, thus resulting in more effective and efficient organizational change.
+
 When combining the action-learning questioning methods with best practices consulting and facilitation, the end result is an integrated organizational development and alignment program that helps CEOs to achieve organizational objectives effectively and efficiently.
 Executive Action-Learning (EAL) vs. Traditional Learning
 The Institute Executive Action-Learning (EAL) model differs from the traditional teaching methods that focus on the memorization and presentation of knowledge. EAL focuses on experiential reflection and problem-solving as the major learning tools. The institute's executive education experience proved that management abilities develop better from solving real problems and projects than from reading books or attending lectures.
 The EAL model is the core organizational change, development, and alignment tool. EAL differs from traditional academic and training programs in focus, content, and delivery. To highlight the main differences, EAL makes the following paradigm shifts:
+
 ·         From academic-driven learning to business-driven learning
 ·         From ad hoc courses to integrated organization development
 ·         From theoretical education to experiential education
@@ -45,6 +55,7 @@ The EAL model is the core organizational change, development, and alignment tool
 ·         From intangible benefits to measurable results using key performance indicators (KPIs)
  
 Executive Action-Learning (EAL)
+
 There is a distinction between knowledge and wisdom. Knowledge comes from memorizing business principles and facts. Wisdom comes from experiential insights. In action learning, this can be achieved via skillful questioning and collaboration facilitation by talented consultants. Traditional academic and MBA education focuses on knowledge, while Executive Action-Learning focuses on experiential problem-solving (wisdom).
 How to Achieve the Desired Executive Performance
 To achieve better business results, Executive Action-Learning (EAL) is designed as a customized and experiential education and alignment process, whereby the management teams collaborate on situation analysis, problem-solving, action planning, and project assessment to improve business performance. This is done in small groups called action-learning teams (ALTs). In this new collaborative learning/working model, the original action-learning is transformed from merely an effective training method to an organizational change and alignment tool. The change program is implemented via a combination of expert education, advisory processes, and collaboration facilitation.
@@ -110,11 +121,13 @@ What are Executive White Papers?
 Executive papers are succinct work documents designed for communication and problem-solving by the executive team. They are not academic research or theory-based papers, they are experiential opinion articles based on real-world observations and analysis. The papers provide businesses and government leaders with a list of questions, terminologies, and discussion points that can be used to address management challenges and opportunities. The structure of the paper includes three main sections: 1). A statement of the problem or opportunity 2). Analysis of root causes and driving forces 3). Proposed solution and implementation best practices.
  
 Courses and References:
+
 <a href="https://www.iim.education/master-classes/index.htm">Master Classes in USA, Canada and Europe in January, February, March, April, May, June, July, August, September, October, November, and December
 </a>
 
 
 Executive Action Learning White Paper
+
 <a href="https://www.iim.education/executive-journal/executive-action-learning.htm ">Executive Action Learning White Paper
 </a>
 
